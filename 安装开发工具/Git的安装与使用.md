@@ -45,4 +45,5 @@ vscode已经集成了git,所以无需安装插件，主要将如何commit 、pus
 然后填写提交记录
 
 
-点击
+然后会出现同步，点击同步即可，这就相当于push
+![1](https://gitee.com/CX330YJ/imgs/raw/master/imgs/20220409184415.png)
