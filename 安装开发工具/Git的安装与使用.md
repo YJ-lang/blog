@@ -40,3 +40,5 @@ token在 Settings => Developer settings下，点击 Personal access tokens，点
 vscode已经集成了git,所以无需安装插件，主要将如何commit 、push
 
 ![1](https://gitee.com/CX330YJ/imgs/raw/master/imgs/20220409184004.png)
+
+点击push后填写提交记录即可
