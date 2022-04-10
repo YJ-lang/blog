@@ -32,7 +32,7 @@
 
 5. 选择Help -> JRebel -> Configuration ，点击 Work offline（离线模式运行）
 
-![1](https://gitee.com/CX330YJ/imgs/raw/master/imgs/20220410210830.png)
+    ![1](https://gitee.com/CX330YJ/imgs/raw/master/imgs/20220410210830.png)
 
-![1](https://gitee.com/CX330YJ/imgs/raw/master/imgs/20220410210903.png)
-这里可以看到离线可使用的到期时间，现在可以关闭代理工具了，当这个时间快到了的时候可以打开代理工具重新激活插件。
+    ![1](https://gitee.com/CX330YJ/imgs/raw/master/imgs/20220410210903.png)
+    这里可以看到离线可使用的到期时间，现在可以关闭代理工具了，当这个时间快到了的时候可以打开代理工具重新激活插件。
