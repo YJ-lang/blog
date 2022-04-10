@@ -1,15 +1,13 @@
 
-# <center> windows安装Maven
-
-本文已参与「新人创作礼」活动，一起开启掘金创作之路。
-
 ## 1.1. maven的安装预配置
 
 ### 1.1.1.下载maven
 
   [下载地址](https://maven.apache.org/download.cgi)
-  
   ![1](https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/ff938df7dad147dc8e2f4c4d0793adb2~tplv-k3u1fbpfcp-zoom-1.image)
+  [历史版本地址](https://archive.apache.org/dist/maven/maven-3/)
+  ![1](https://gitee.com/CX330YJ/imgs/raw/master/imgs/20220410200148.png)
+  不需要下载最高版本的maven，3.6.3即可
 
 ### 1.1.2. 检查JDK版本
 

@@ -1,6 +1,4 @@
 
-# Git使用手册（idea版和vscode版）
-
 ## 准备工作
 
 ### 新建一个仓库
@@ -64,7 +62,8 @@ vscode已经集成了git,所以无需安装插件，主要讲如何commit和push
 
 ![1](https://gitee.com/CX330YJ/imgs/raw/master/imgs/20220409184318.png)
 
-然后填写提交记录
+填写提交记录
+![1](https://gitee.com/CX330YJ/imgs/raw/master/imgs/20220410200340.png)
 
-然后会出现同步，点击同步即可，这就相当于push
+会出现同步按钮，点击同步即可，这就相当于push
 ![1](https://gitee.com/CX330YJ/imgs/raw/master/imgs/20220409184415.png)

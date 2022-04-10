@@ -1,8 +1,4 @@
 
-# <center> windows安装与配置JDK </center>
-
-本文已参与「新人创作礼」活动，一起开启掘金创作之路。
-
 ## 1. 下载JDK
 
 - 去官网下载，[JDK历史版本下载](https://www.oracle.com/java/technologies/downloads/archive/)，但是需要注册账号登陆，不是很方便
