@@ -24,7 +24,7 @@
 
 4. 打开idea 选择Help -> JRebel -> Activation
 
-    激活服务器地址：http://127.0.0.1:8888/新生成的GUID
+    激活服务器地址：http://<span><span>127.0.0.1:8888/新生成的GUID
     邮箱随便填，只要是正确的邮箱格式即可
     点击Activate JRebel，即可破解成功
 ![1](https://gitee.com/CX330YJ/imgs/raw/master/imgs/20220410202701.png)
