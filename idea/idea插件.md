@@ -9,6 +9,7 @@
 7. intellij-rainbow-brackets --彩虹括号
 8. .ignore --git提交忽略
 9. JRebel --热部署
+10. Atom Material ICons --icon插件，并不是因为图标变的有多好看，而是听说安装了这个插件后，idea会变的很丝滑（发出桀桀的笑声）
 
 ## 破解
 
