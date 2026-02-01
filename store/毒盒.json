@@ -1,0 +1,28 @@
+{
+    "urls": [
+        {
+            "url": "https://vip.youdu.fan/vip/",
+            "name": "毒盒.com"
+        },
+        {
+            "url": "https://tv.youdu.fan:666/duhe/",
+            "name": "毒盒【联通】"
+        },
+        {
+            "url": "http://tv.goos.gs:666/",
+            "name": "毒盒【电信】"
+        },
+        {
+            "url": "http://8.134.83.224:666/",
+            "name": "毒盒【通用】"
+        },
+        {
+            "url": "https://毒盒.com/tv/duhe/",
+            "name": "毒盒【备用】"
+        },
+        {
+            "url": "https://vip.youdu.fan/ceshi/",
+            "name": "毒盒【测试】"
+        }
+    ]
+}

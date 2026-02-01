@@ -1,0 +1,32 @@
+{
+	"storeHouse": [
+		{
+			"sourceName": "🌹拾光单库🌹",
+			"sourceUrl": "https://4708.kstore.space/dc.json"
+		},
+		{
+			"sourceName": "🌹拾光仓库🌹",
+			"sourceUrl": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/xmbjm/svip/refs/heads/main/dc.json"
+		},
+		{
+			"sourceName": "🌹欧歌仓库🌹",
+			"sourceUrl": "https://欧歌.e.nxog.top/nxog/ou1.php?b=欧歌"
+		},
+		{
+			"sourceName": "🌹天微仓库🌹",
+			"sourceUrl": "https://qixing.myhkw.com/DC.txt"
+		},
+		{
+			"sourceName": "🌹奇奇仓库🌹",
+			"sourceUrl": "http://z.qiqiv.cn/123"
+		},
+		{
+			"sourceName": "🌹欧歌备1仓库🌹",
+			"sourceUrl": "https://2.nxog.eu.org/nxog/ou1.php?b=欧歌"
+		},
+		{
+			"sourceName": "🌷欧歌备2仓库🌷",
+			"sourceUrl": "https://3.nxog.eu.org/nxog/ou1.php?b=欧歌"
+		}
+	]
+}
